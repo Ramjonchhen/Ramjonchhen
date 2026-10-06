@@ -7,7 +7,7 @@ Backend-focused full-stack developer in Bhaktapur, Nepal. I work mainly in TypeS
 Most of my professional work lives in private repositories, so here is what it is.
 
 - **Poker44** (client work): a real-time multiplayer poker platform, built largely solo in four months. Express and TypeScript backend, PostgreSQL through TypeORM, Redis for live game state, Socket.io, multi-table tournaments, 131 Jest and Supertest tests. Live at [poker44.net](https://poker44.net).
-- **CookingTAO**: payments and notifications for a no-code Bittensor mining platform in public beta. Next.js front end, FastAPI backend.
+- **CookingTAO**: payments and notifications for a no-code Bittensor mining platform in public beta. Next.js front end, FastAPI backend. Live at [prod.cookingtao.com](https://prod.cookingtao.com).
 - **Vehicle marketplace**: the PostgreSQL catalog schema and Fastify APIs for a multi-vehicle marketplace, with a catalog of 385 brands, 2,692 models and 7,344 variants merged from four sources.
 
 ## Public work
